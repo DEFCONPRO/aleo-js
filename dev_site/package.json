@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@entropy1729/aleo-js": "file:..",
-    "webpack": "^5.74.0",
+    "webpack": "^5.76.0",
     "webpack-cli": "^4.10.0"
   },
   "devDependencies": {
